@@ -1,0 +1,84 @@
+.Ar {
+    color: rgb(56, 240, 0);
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 0, 0);
+    border-style: solid;
+    border-width: 0.8px;
+    padding: 5px ;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.25s,
+    color 0.15s
+}
+.Ar:hover {
+    background-color: rgb(0, 195, 255);
+    opacity: 0.8;
+    color: rgb(0, 26, 255);
+}
+.Ab {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+    vertical-align: top;
+}   
+
+.Ab:hover {
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.3);
+}
+
+.Ac {
+    background-color: rgba(231, 18, 203, 0.952);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+    vertical-align: top; 
+}
+.Ac:hover {
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.3);
+}
+
+
+.DD {
+    background-color: rgb(41, 98, 255);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+    vertical-align: top; 
+}
+.DD:hover {
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.3);
+}
+
+
+
+
+
+
+
+
+
